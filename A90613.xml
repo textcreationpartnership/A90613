@@ -1,0 +1,153 @@
+<?xml version="1.0" encoding="UTF-8"?><?xml-stylesheet type="text/css" href="http://www.textcreationpartnership.org/docs/code/pfs.css"?><TEI xmlns="http://www.tei-c.org/ns/1.0">
+   <teiHeader>
+      <fileDesc>
+         <titleStmt>
+            <title>A petition presented to the Right Honourable the Lords and Commons in Parliament assembled by the inhabitants of the city of Westminster, the hamblets of the Tower, the burrough of Southwark, and parts adjacent within the weekly bills of mortality: being subscribed by above twenty thousand persons, wel-affected to the King, Parliament, City, and kingdom. In concurrence with the City of London for a personall treaty, and the happy uniting of the militia's of the out-parts with the said City. Together with the answer of the Parliament.</title>
+         </titleStmt>
+         <extent>Approx. 5KB of XML-encoded text transcribed from 5 1-bit group-IV TIFF page images.</extent>
+         <publicationStmt>
+            <publisher>Text Creation Partnership,</publisher>
+            <pubPlace>Ann Arbor, MI ; Oxford (UK) :</pubPlace>
+            <date when="2016-02">2016-02 (EEBO-TCP Phase 2).</date>
+            <idno type="DLPS">A90613</idno><idno type="EEBO-CITATION">99863216</idno>
+  <idno type="VID">115405</idno>
+  <idno type="EEBO-PROQUEST">2240956856</idno>
+  
+            <idno type="STC">Wing P1850</idno>
+            <idno type="STC">Thomason E453_31</idno>
+            <idno type="STC">ESTC R203154</idno>
+            <idno type="PROQUEST">99863216</idno>
+            <availability><p>This keyboarded and encoded edition of the work described above is co-owned by the
+    institutions providing financial support to the Early English Books Online Text Creation
+    Partnership. This text is available for reuse, according to the terms of <ref target="https://creativecommons.org/publicdomain/zero/1.0/"> Creative Commons 0 1.0 Universal
+    licence</ref>. The text can be copied, modified, distributed and performed, even for commercial
+    purposes, all without asking permission.</p></availability>
+         </publicationStmt>
+         <seriesStmt>
+            <title>Early English books online text creation partnership.</title>
+         </seriesStmt>
+         <notesStmt><relatedItem type="facs" target="https://data.historicaltexts.jisc.ac.uk/view?pubId=eebo-99863216e"/>
+            <note>(EEBO-TCP ; phase 2, no. A90613)</note>
+            <note>Transcribed from: (Early English Books Online ; image set 115405)</note>
+            <note>Images scanned from microfilm: (Thomason Tracts ; 72:E453[31])</note>
+         </notesStmt>
+         <sourceDesc>
+            <biblFull>
+               <titleStmt>
+                  <title>A petition presented to the Right Honourable the Lords and Commons in Parliament assembled by the inhabitants of the city of Westminster, the hamblets of the Tower, the burrough of Southwark, and parts adjacent within the weekly bills of mortality: being subscribed by above twenty thousand persons, wel-affected to the King, Parliament, City, and kingdom. In concurrence with the City of London for a personall treaty, and the happy uniting of the militia's of the out-parts with the said City. Together with the answer of the Parliament.</title>
+                  <author>England and Wales. Parliament. House of Commons.</author>
+               </titleStmt>
+               <extent>8 p.   </extent>
+               <publicationStmt>
+                  <publisher>for Andrew Kembe,</publisher>
+                  <pubPlace>Imprinted at London :</pubPlace>
+                  <date>July 21. 1648.</date>
+               </publicationStmt>
+               <notesStmt>
+                  <note>The House of Commons' reply is dated 17 July 1648.</note>
+                  <note>Reproduction of the original in the British Library.</note>
+               </notesStmt>
+            </biblFull>
+         </sourceDesc>
+      </fileDesc>
+      <encodingDesc>
+         <projectDesc>
+            <p>Created by converting TCP files to TEI P5 using tcp2tei.xsl,
+      TEI @ Oxford.
+      </p>
+         </projectDesc>
+         <editorialDecl>
+            <p>EEBO-TCP is a partnership between the Universities of Michigan and Oxford and the publisher ProQuest to create accurately transcribed and encoded texts based on the image sets published by ProQuest via their Early English Books Online (EEBO) database (http://eebo.chadwyck.com). The general aim of EEBO-TCP is to encode one copy (usually the first edition) of every monographic English-language title published between 1473 and 1700 available in EEBO.</p>
+            <p>EEBO-TCP aimed to produce large quantities of textual data within the usual project restraints of time and funding, and therefore chose to create diplomatic transcriptions (as opposed to critical editions) with light-touch, mainly structural encoding based on the Text Encoding Initiative (http://www.tei-c.org).</p>
+            <p>The EEBO-TCP project was divided into two phases. The 25,363 texts created during Phase 1 of the project have been released into the public domain as of 1 January 2015. Anyone can now take and use these texts for their own purposes, but we respectfully request that due credit and attribution is given to their original source.</p>
+            <p>Users should be aware of the process of creating the TCP texts, and therefore of any assumptions that can be made about the data.</p>
+            <p>Text selection was based on the New Cambridge Bibliography of English Literature (NCBEL). If an author (or for an anonymous work, the title) appears in NCBEL, then their works are eligible for inclusion. Selection was intended to range over a wide variety of subject areas, to reflect the true nature of the print record of the period. In general, first editions of a works in English were prioritized, although there are a number of works in other languages, notably Latin and Welsh, included and sometimes a second or later edition of a work was chosen if there was a compelling reason to do so.</p>
+            <p>Image sets were sent to external keying companies for transcription and basic encoding. Quality assurance was then carried out by editorial teams in Oxford and Michigan. 5% (or 5 pages, whichever is the greater) of each text was proofread for accuracy and those which did not meet QA standards were returned to the keyers to be redone. After proofreading, the encoding was enhanced and/or corrected and characters marked as illegible were corrected where possible up to a limit of 100 instances per text. Any remaining illegibles were encoded as &lt;gap&gt;s. Understanding these processes should make clear that, while the overall quality of TCP data is very good, some errors will remain and some readable characters will be marked as illegible. Users should bear in mind that in all likelihood such instances will never have been looked at by a TCP editor.</p>
+            <p>The texts were encoded and linked to page images in accordance with level 4 of the TEI in Libraries guidelines.</p>
+            <p>Copies of the texts have been issued variously as SGML (TCP schema; ASCII text with mnemonic sdata character entities); displayable XML (TCP schema; characters represented either as UTF-8 Unicode or text strings within braces); or lossless XML (TEI P5, characters represented either as UTF-8 Unicode or TEI g elements).</p>
+            <p>Full documentation of the original data capture process is available from the <ref target="http://www.textcreationpartnership.org/docs/.">Text Creation Partnership web site</ref>.
+   All versions of the texts are now archived and freely available for download. See <ref target="https://textcreationpartnership.org/faq/#faq05">the TCP Download FAQ</ref>
+   for detailed information. The TEI P5 versions are also freely available from the <ref target="https://github.com/textcreationpartnership">TCP Github repository</ref>.</p>
+         </editorialDecl>
+         <listPrefixDef>
+            <prefixDef ident="tcp" matchPattern="([0-9\-]+):([0-9IVX]+)" replacementPattern="http://eebo.chadwyck.com/downloadtiff?vid=$1&amp;page=$2"/>
+            <prefixDef ident="char" matchPattern="(.+)" replacementPattern="https://raw.githubusercontent.com/textcreationpartnership/Texts/master/tcpchars.xml#$1"/>
+         </listPrefixDef>
+      </encodingDesc>
+      <profileDesc>
+         <langUsage>
+            <language ident="eng">eng</language>
+         </langUsage>
+         <textClass>
+            <keywords scheme="http://authorities.loc.gov/">
+               <term type="geographic_name">London (England) --  History --  17th century --  Early works to 1800.</term>
+               <term type="geographic_name">Great Britain --  History --  Civil War, 1642-1649 --  Early works to 1800.</term>
+            </keywords>
+         </textClass>
+      </profileDesc>
+      <revisionDesc>
+         <change>
+            <date>2014-05 </date>
+            <label>Apex CoVantage</label>Keyed and coded from ProQuest page images </change>
+         <change>
+            <date>2014-06 </date>
+            <label>Anne Simpson </label>Sampled and proofread </change>
+         <change>
+            <date>2014-06 </date>
+            <label>Anne Simpson</label>Text and markup reviewed and edited </change>
+         <change>
+            <date>2015-03 </date>
+            <label>pfs</label>Batch review (QC) and XML conversion </change>
+      <change><date>2021-05 </date><label>lb</label>TEI P5 conversion </change></revisionDesc>
+   </teiHeader>
+   <text xml:lang="eng">
+      <front>
+         <div type="title_page">
+            <pb facs="tcp:115405:1"/>
+            <p>A PETITION <hi>PRESENTED</hi> To the Right Honourable THE LORDS and COMMONS In Parliament assembled By the Inhabitants of the City of <hi>Westminster,</hi> the Hamblets of the Tower, the Burrough of <hi>Southwark,</hi> and Parts adjacent within the weekly Bills of Mortality: Being subscribed by above Twenty thousand Persons, wel-affected to the King, Parliament, City, and Kingdom.</p>
+            <p>In concurrence with the City of <hi>London</hi> for A Personall Treaty, And the happy Uniting of the MILITIA'S of the Out-parts with the said <hi>City.</hi>
+            </p>
+            <p>
+               <hi>Together with the Answer of the</hi> PARLIAMENT.</p>
+            <p>Imprinted at <hi>London</hi> for <hi>Andrew Kembe, July</hi> 21. 1648.</p>
+         </div>
+      </front>
+      <body>
+         <div type="petition">
+            <pb n="3" facs="tcp:115405:2"/>
+            <head>TO THE RIGHT HONORABLE THE <hi>LORDS</hi> and <hi>COMMONS</hi> In Parliament Assembled.</head>
+            <argument>
+               <p>
+                  <hi>The humble Petition of divers well-affected Inhabitants of the City of</hi> Westminster, the Hamblets of the Tower, the Borough of Southwarke, <hi>and Parishes ad<g ref="char:EOLhyphen"/>jacent within the Weekly bills of Mortality.</hi>
+               </p>
+            </argument>
+            <opener>Sheweth,</opener>
+            <p>
+               <seg rend="decorInit">T</seg>Hat your Petitioners, notwithstanding their greivous sufferings and heart-breaking feares of utter ruine to all that is precious in this sometime flourishing Kingdom, by the continued, nay in<g ref="char:EOLhyphen"/>creasing
+<pb n="4" facs="tcp:115405:3"/> Distractions thereof, cannot but look on your present resolutions of a Personal Treaty with the Kings Ma<g ref="char:EOLhyphen"/>jesty, as a doore of hope opened by the God of Salvations, for the cure of our otherwise remedilesse and all destroy<g ref="char:EOLhyphen"/>ing Distempers; and as they give you hearty and humble thankes for your Votes and Resolutions already passed to that purpose: So they cannot but as English-men, nay Christians▪ hum<g ref="char:EOLhyphen"/>bly and earnestly beg Your speedy and effectuall progresse therein, untill the great Creator of the ends of the earth Create a happy Peace to this now mi<g ref="char:EOLhyphen"/>serably tossed and afflicted Kingdome.</p>
+            <p>That whereas the Honourable Lord Maior, Aldermen, and Common-Councell of the City of <hi>London,</hi> have in order to the said Personall Treaty
+<pb n="5" facs="tcp:115405:3"/> made severall late Addresses to the right Honourable Houses of Parlia<g ref="char:EOLhyphen"/>ment, offering their utmost indeavors both of Estate and Life for the secu<g ref="char:EOLhyphen"/>ring his royall Majesty and both Hou<g ref="char:EOLhyphen"/>ses of Parliament, from all force and tu<g ref="char:EOLhyphen"/>mults, impeding or disturbing the said Treaty, and desiring in order thereun<g ref="char:EOLhyphen"/>to▪ that the <hi>Militia</hi> of the Out parts may be Vnited to and with the said Ci<g ref="char:EOLhyphen"/>ty of <hi>London,</hi> as it was constantly du<g ref="char:EOLhyphen"/>ring our sad troubles with very good successe and advantage to the publicke safety, alwaies fixed untill of late.</p>
+            <p>Your Petitioners in concurrence with the said ingagement and desires of the Honourable City of <hi>London,</hi> Do hum<g ref="char:EOLhyphen"/>bly pray, That the said Personall Trea<g ref="char:EOLhyphen"/>ty may be hastened and the <hi>Militia</hi> of the Out-parts Vnited with the said
+<pb n="6" facs="tcp:115405:4"/> City in one <hi>Militia,</hi> according to an Ordinance already offered by the said City (only in the hands of such Per<g ref="char:EOLhyphen"/>sons as are Cordiall to the ends of the Protestation, Solemne League and Covenant,) which wee humbly con<g ref="char:EOLhyphen"/>ceive, may best tend to the preservation of his Majesties royall Person and both Houses of Parliament, in their setling a safe and well-grounded Peace, by this so much desired Treatie.</p>
+            <closer>
+               <signed>And your Petitioners, &amp;c.</signed>
+            </closer>
+         </div>
+         <div type="response_to_petitioners">
+            <pb n="7" facs="tcp:115405:4"/>
+            <head>Die Lunae, 17. Julii, 1648.</head>
+            <p>
+               <seg rend="decorInit">T</seg>HE House being informed, That divers Inhabitants of the City of <hi>Westminster, Hamblets</hi> of the Tower, and Borough of <hi>Southwarke,</hi> and Parishes adjacent, within the Weekly Bills of Mortality, were at doore, They were called in, and presented a Petition, which af<g ref="char:EOLhyphen"/>ter the Petitioners were withdrawne, was read, and was intituled, <hi>The humble Petition of divers well affected Inhabitants of the City of Westminster, Hamblets of the Tower, and Borough of Scuthwarke, and Parishes adjacent within the weekly Bills of Mortality.</hi> Ordered, That this Petition be referred to the Com<g ref="char:EOLhyphen"/>mittee where Mr. <hi>Sandys▪</hi> has the Chaire appointed, to consider of the other Petitions of the out parts, The Petitioners were a<g ref="char:EOLhyphen"/>gaine
+<pb n="8" facs="tcp:115405:5"/> called in, Mr. Speaker by command of the House gave them this answer, The House has received your Petition and read it, &amp; the House hath already voted, that the Militia shall be joyned, and for the manner how, they have referred it to a Committee, to which they have likewise referred your Pe<g ref="char:EOLhyphen"/>tition, and the House has taken notice of the expression of your ample good affecti<g ref="char:EOLhyphen"/>ons, and of your approbation of their Votes touching a Treaty: For the matter, being for peace, no good man but desires it, and for your great and good affections expressed in this Petition, The House have commanded me to give you reall and very hearty thanks.</p>
+            <closer>
+               <signed>H. Elsy<gap reason="illegible" resp="#keyers" extent="1 letter">
+                     <desc>•</desc>
+                  </gap>ge, Cler. Pa<gap reason="illegible" resp="#keyers" extent="1 letter">
+                     <desc>•</desc>
+                  </gap>l. D. Com▪</signed>
+            </closer>
+            <trailer>FINIS.</trailer>
+         </div>
+      </body>
+   </text>
+</TEI>
